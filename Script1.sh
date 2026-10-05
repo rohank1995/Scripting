@@ -7,3 +7,6 @@ echo "i am devops enginner"
 echo "I got 20 lpa package" 
 echo "Our new batch will start from 8 october"
 echo "I will be availavle at hinjewadi office on sunday"
+echo "Today I am learning merged conflicts"
+echo "Good Morning"
+
